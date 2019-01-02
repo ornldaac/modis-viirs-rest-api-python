@@ -12,7 +12,7 @@ The jupyter notebooks in this repository will provide some examples for getting 
 
 ## Tutorials
 
-1. Learn how to convert outputs to `xarray` objects, generate a variety of plots, and save to netCDF (working-with-xarray.ipynb)[working-with-xarray.ipynb]
+1. Learn how to convert outputs to `xarray` objects, generate a variety of plots, and save to netCDF [working-with-xarray.ipynb](working-with-xarray.ipynb)
 
 ![timeseries1](img/working-with-xarray_timeseries1.png)
 ![gridded1](img/working-with-xarray_gridded1.png)
