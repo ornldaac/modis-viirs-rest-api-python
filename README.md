@@ -12,11 +12,11 @@ The jupyter notebooks in this repository will provide some examples for getting 
 
 ## Tutorials
 
-1. Learn how to convert outputs to `xarray` data structures, generate a variety of plots, and save to netCDF [working-with-xarray.ipynb](working-with-xarray.ipynb)       
+1. Convert outputs to `xarray` data structures, generate a variety of plots, and save to netCDF [working-with-xarray.ipynb](working-with-xarray.ipynb)       
 
-2. Learn how to convert outputs to `gdal` raster objects, plot, reproject, and save to GeoTIFF [working-with-gdal.ipynb](working-with-gdal.ipynb)       
+2. Convert outputs to `gdal` raster objects, plot, reproject, and save to GeoTIFF [working-with-gdal.ipynb](working-with-gdal.ipynb)       
 
-3. Learn how to convert outputs to `rasterio` raster objects, plot, reproject, and save to GeoTIFF [working-with-rasterio.ipynb](working-with-rasterio.ipynb)       
+3. Convert outputs to `rasterio` raster objects, plot, reproject, and save to GeoTIFF [working-with-rasterio.ipynb](working-with-rasterio.ipynb)       
 
 ![timeseries1](img/working-with-xarray_timeseries1.png)
 ![gridded1](img/working-with-xarray_gridded1.png)
