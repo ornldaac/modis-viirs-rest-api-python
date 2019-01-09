@@ -1,0 +1,11 @@
+name: modis-viirs-rest-api-python
+channels:
+  - conda-forge
+dependencies:
+  - json
+  - requests
+  - numpy
+  - matplotlib
+  - xarray
+  - rasterio
+  - gdal

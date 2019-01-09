@@ -1,7 +1,0 @@
-json
-requests
-numpy
-matplotlib
-xarray
-rasterio
-gdal
